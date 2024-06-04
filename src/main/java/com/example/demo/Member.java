@@ -7,7 +7,7 @@ import jakarta.persistence.Id;
 @Entity
 public class Member {
 
-    //test
+
     @Id
     @GeneratedValue
     private String id;
